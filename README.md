@@ -6,6 +6,7 @@ A simple temperature converter that converts Fahrenheit to Celsius and Celsius t
 
 * HTML
 * CSS
+* JavaScript
 
 ## Features
 
